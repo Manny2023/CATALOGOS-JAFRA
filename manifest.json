@@ -1,0 +1,26 @@
+
+   
+ {
+  "short_name": "JAFRA",
+  "name": "CATALOGOS JAFRA",
+  "icons": [
+  {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgT_g3iycdhPHAKsByr98bBft9kIWOIXJNOnsJgnbDqYvcbBvmM-YBbGOyQSpQf7TdxT67s5EYX9pXrqNbHZh9P1QzvOMEnmQI1H_VpaXYDTnYQbsOud2DAqB4heVRgn8EP6xlIXglpUG1SAPxz2Y3YAmNfXkOre4Et6w0L2JF90k-V0W5jnK_rCViPKEYx/s128/catalogos%20jafra%20128.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+	 {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhPj0ZyU6GSM_hHrXxXv1q_FxylvKIGNURdTFm5Rn_a2fZsP1h4R9mQ9xUqsvinaFj3rnEGjE99ZspCoj1jvUly0SmMmuPmywJxeH1UNLtgOWwuiwSaOrJHLEKbfi2otoiQ8JjUvwr_j28iCXgTAn97DP1YEo9N2befVNrgRAplit8QTdGqW4bvqCuSlTrh/s512/catalogos%20jafra%20(1).png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "index.html",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#00060a",
+  "theme_color": "#00060a"
+}
+   
+      
+      

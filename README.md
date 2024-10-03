@@ -1,0 +1,15 @@
+#CatalogoJafra
+#JafraCosmetics
+#BellezaNatural
+#CuidadoDeLaPiel
+#MaquillajeJafra
+#OfertasJafra
+#ProductosJafra
+#JafraMéxico
+#TendenciasDeBelleza
+#MujeresJafra
+#CatálogosJafra
+#Jafra2024
+#CuidadoPersonal
+#EstiloDeVida
+#BellezaYEstilo
